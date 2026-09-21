@@ -25,5 +25,7 @@ int main()
     cout << "z2 = " << z2 << endl;
 
     cin.get();
+    cout << "Нова зміна для GitHub" << endl;
     return 0;
+
 }
